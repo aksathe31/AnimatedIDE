@@ -1,0 +1,3 @@
+# AnimatedIDE
+Using this IDE, one can learn Linkedlist and gain confidence in basic.
+This project will benifit the upcoming programmers to begin learning DS algo. 
